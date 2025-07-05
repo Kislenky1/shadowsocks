@@ -27,18 +27,17 @@
 ```bash
 git clone https://github.com/Kislenky1/shadowsocks.git
 cd shadowsocks
-
+```
 ###2 🔑 Сделайте скрипт исполняемым
 
 ```bash
 chmod +x install.sh
-
+```
 ###3 🚀 Запустите скрипт от root
 
 ```bash
 sudo ./install.sh
-
-
+```
 ###4 📲 После установки
 Скрипт выведет:
 
